@@ -5,6 +5,11 @@
   <h4>👾 Hello World 👽</h4>
   
     ▪ Interested in: Web Front-end Development
+    ▪ Skills: 
+    ▪ Blog: 
+    ▪ Portfolio:
+    ▪ Contact: 
+  
   
   
   <br />
