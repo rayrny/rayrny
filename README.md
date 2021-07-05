@@ -2,9 +2,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=04188A&height=200&section=header&text=jerimo&fontColor=E1DBF4&fontSize=90&animation=twinkling)
 
 <div align='center'>
-  <h4>👾 안녕하세요!</h4>
-    Front-end 개발자 김수지입니다.<br />
-    자유롭게 뻗어 나가는 호기심을 가지고, 실현하기 위해 끊임없이 도전합니다.<br />
+  <h4>👾 Hello World 👽</h4>
+  
+    ▪ Interested in: Web Front-end Development
+  
+  
   <br />
   
   
