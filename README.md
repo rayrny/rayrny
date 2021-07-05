@@ -1,6 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=04188A&height=200&section=header&text=jerimo&fontColor=E1DBF4&fontSize=90&animation=twinkling)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%236C59EF&title_bg=%23500EE9&icon=&icon_color=%23E7E7E7&title=%F0%9F%9A%80+hits+++&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jerimo&count_bg=%236C59EF&title_bg=%23500EE9&icon=&icon_color=%23E7E7E7&title=%F0%9F%9A%80+hits+++&edge_flat=false)](https://hits.seeyoufarm.com)
 <div align='center'>
   <h4>👾 Hello World 👽</h4>
   
