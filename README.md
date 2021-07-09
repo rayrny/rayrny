@@ -28,9 +28,9 @@
   <a href="#"><img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/SkLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/></a>
-  <br /><br /> -->
+  <br /><br /> 
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerimo&count_private=true&show_icons=true&theme=buefy)
 ](https://github.com/anuraghazra/github-readme-stats)
-  
+ --> 
 <div>
