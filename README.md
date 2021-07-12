@@ -9,8 +9,7 @@
   <a href="https://jerimo.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=Github&logoColor=white"/></a>
   <a href="mailto:bion239@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
   <a href="https://www.miricanvas.com/v/1h7y90" target="_blank"><img src="https://img.shields.io/badge/Portfolio-668cff?style=flat-square&logo=Imgur&logoColor=white"/></a>
-  <a href="https://www.instagram.com/_ray.moon/" target="_blank"><img src="https://img.shields.io/badge/Instagram-ff66b3?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  
+
 👾 Interested in: **Web Development**
   
 🚀 Recently learning: 
