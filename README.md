@@ -18,7 +18,7 @@
   <a href="https://jerimo.github.io/" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
   <a href="https://jerimo.github.io/" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
   
-👩‍💻 Want to learn: 
+👩‍💻 Want to learn more: 
   <a href="https://jerimo.github.io/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
   <a href="https://jerimo.github.io/" target="_blank"><img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
   <a href="https://jerimo.github.io/" target="_blank"><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>
