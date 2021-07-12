@@ -46,7 +46,7 @@
   <a href="#"><img src="https://img.shields.io/badge/SkLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/></a>
   <br /><br /> -->
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerimo&count_private=true&show_icons=true&theme=buefy)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerimo&count_private=true&show_icons=true&theme=material-palenight)
 ](https://github.com/anuraghazra/github-readme-stats)
  
 <div>
