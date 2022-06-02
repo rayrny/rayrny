@@ -5,6 +5,7 @@
   <h4> What's moon time now? </h4>
   <a href="https://moon-svg.minung.dev">
     <img src="https://moon-svg.minung.dev/moon.svg?theme=ray" alt="moon.svg" />
+    <img src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon.svg" />
   </a>
   
   <a href="https://jerimo.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=Github&logoColor=white"/></a>
