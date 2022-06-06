@@ -14,7 +14,7 @@
 
 👾 Interested in: **Web Development**
   
-🚀 Recently learning: 
+  <!-- 🚀 Recently learning: 
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <a href="https://jerimo.github.io/" target="_blank"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
   <a href="https://jerimo.github.io/" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
@@ -32,7 +32,7 @@
   <br />
   
   
-  <!--
+
  <h4>기술 스택</h4>
   <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue-dot-js&logoColor=white"/></a>
