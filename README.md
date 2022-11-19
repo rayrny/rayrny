@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=04188A&height=150&section=header&text=jerimo&fontColor=E1DBF4&fontSize=90&animation=twinkling)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jerimo&count_bg=%236C59EF&title_bg=%23500EE9&icon=&icon_color=%23E7E7E7&title=%F0%9F%9A%80+hits+++&edge_flat=false)](https://hits.seeyoufarm.com)
-<div align='center'>
+<!-- <div align='center'>
   <h4> What's moon time now? </h4>
   <a href="https://moon-svg.minung.dev">
     <img src="https://moon-svg.minung.dev/moon.svg?theme=ray" alt="moon.svg" />
@@ -11,7 +11,7 @@
   <a href="https://jerimo.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=Github&logoColor=white"/></a>
   <a href="mailto:bion239@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
   <a href="https://www.miricanvas.com/v/1h7y90" target="_blank"><img src="https://img.shields.io/badge/Portfolio-668cff?style=flat-square&logo=Imgur&logoColor=white"/></a>
-
+ -->
 👾 Interested in: **Web Development**
   
   <!-- 🚀 Recently learning: 
