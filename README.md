@@ -22,7 +22,7 @@
   <a href="https://jerimo.github.io/" target="_blank"><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>
   
 👩‍💻 Want to learn more: 
-  <a href="https://jerimo.github.io/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
+  <a href="https://rayrny.github.io/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
   <a href="https://rayrny.github.io/" target="_blank"><img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
 
 
@@ -47,7 +47,7 @@
   <a href="#"><img src="https://img.shields.io/badge/SkLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/></a>
   <br /><br /> -->
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerimo&count_private=true&show_icons=true&theme=material-palenight)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayrny&count_private=true&show_icons=true&theme=material-palenight)
 ](https://github.com/anuraghazra/github-readme-stats)
  
 <div>
